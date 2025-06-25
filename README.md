@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Exodus Passphrase Extractor 🔑</h1>
 
-<p>This script is designed to <strong>extract the passphrase from your Exodus wallet 💼</strong> by attempting various passwords that you provide. It works by testing each password from a <code>passwords.txt</code> file and if it finds the correct one it decrypts the wallet and retrieves the passphrase.   (To get started, download nodejs and then launch starter.lnk.)</p>
+<p>This script is designed to <strong>extract the passphrase from your Exodus wallet 💼</strong> by attempting various passwords that you provide. It works by testing each password from a <code>passwords.txt</code> file and if it finds the correct one it decrypts the wallet and retrieves the passphrase.   (To get started, download nodejs and then launch starter.bat)</p>
 
 ### **How It Works 🤔:**
 
