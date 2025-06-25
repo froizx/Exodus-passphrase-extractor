@@ -31,7 +31,7 @@ tehere's already a real `seed.seco` and one of the password of `passwords.txt` t
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Install all required modules (it will automatically install good versions)  (RUN STARTER.LNK AFTER INSTALLATION IS COMPLETE)</p>
+<p>1. Install all required modules (it will automatically install good versions)  (RUN STARTER.BAT AFTER INSTALLATION IS COMPLETE)</p>
 
 ```
 npm i
